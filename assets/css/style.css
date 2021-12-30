@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  
+  body {
+    background-color: #000;
+    color: #fff;
+    font-family: "raleway", sans-serif;
+    font-weight: 300;
+  }
+  
+  h1 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 3rem;
+  }
+  span {
+    color: darkgreen;
+  }
+  .ighead {
+    width: 100%;
+  }
+  
+  .desc-section {
+    margin: auto;
+    width: 75%;
+    padding: 3rem 0;
+    /* vertical-align: middle; */
+  }
+  
+  .texto {
+    display: inline-block;
+    width: 50%;
+    padding: 2rem;
+    vertical-align: middle;
+  }
+  .texto p {
+    margin-bottom: 1rem;
+  }
+  .desc-img {
+    display: inline-block;
+    width: 35%;
+    vertical-align: middle;
+  }
+  
+  .icon-section {
+    background-color: #1e1a13;
+    text-align: center;
+    padding: 2rem;
+  }
+
+  h2{
+    font-weight: 300;
+    font-size: 2.5rem;
+    margin: 3rem;
+  }
+  
+  .icono {
+    display: inline-block;
+    width: 20%;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  
+  .galeria {
+    padding: 1rem;
+    text-align: center;
+  }
+  .centrado {
+    width: 100%;
+    border: 2px solid blue;
+  }
+  .centrado-fotos {
+    border: 2px solid blue;
+    display: inline-block;
+    padding: 0.7em;
+    width: 25%;
+  }
+  .centrado-fotos img {
+    width: 100%;
+    height: 11rem;
+  }
+  
+  .footer {
+    background-color: #1e1a13;
+    text-align: center;
+    padding: 1rem;
+    line-height: 3rem;
+  }
+  
